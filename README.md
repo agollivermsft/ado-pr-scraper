@@ -41,3 +41,7 @@ az repos list --organization "https://$Org.visualstudio.com" --project "$Project
 - The script processes repositories sequentially
 - Large repositories may take some time to process due to API pagination
 - API pagination is totally untested
+
+## TODO
+
+- Can we get your `CreatorId` automagically?
